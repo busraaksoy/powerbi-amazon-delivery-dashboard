@@ -1,7 +1,14 @@
-# 🚚📊 Amazon Delivery Performance Dashboard (Power BI) 
+# 🚚 Amazon Delivery Performance Dashboard (Power BI) 
 
 Bu proje, Kaggle’dan alınan Amazon teslimat verilerini kullanarak oluşturduğum etkileşimli bir Power BI satış performansı dashboard’ıdır. Rapor; teslimat süreleri, ajan performansı, bölge bazlı dağılım, kategori analizi, hava durumu etkisi ve daha birçok metriğin detaylı görselleştirmelerini içerir.
 
+<p align="center">
+  <img src="assets/Overview.png" alt="Overview Dashboard" width="800"/>
+</p>
+
+<p align="center">
+ 📊 Data Source: <a href="https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset" target="_blank">Kaggle - Amazon Delivery Dataset</a>
+</p>
 
 ### 🗄️ Veri Kaynağı ve SQL Süreci
 
@@ -68,6 +75,9 @@ Dashboard üç sayfadan oluşuyor:
 🔸 Trend grafikler
 
 🔸 Kategori bazlı hızlı özetler
+<p align="center">
+  <img src="assets/Overview.png" alt="Overview Dashboard" width="800"/>
+</p>
 
 2️⃣ Agent
 
@@ -78,6 +88,9 @@ Dashboard üç sayfadan oluşuyor:
 🔸 Ortalama teslimat süreleri
 
 🔸 Gün içi dağılım
+<p align="center">
+  <img src="assets/Agent.png" alt="Agent Dashboard" width="800"/>
+</p>
 
 3️⃣ Store
 
@@ -88,5 +101,7 @@ Mağaza bazlı analiz:
 🔸 Kategori kırılımında satış
 
 🔸 Bölgesel performans özetleri (coğrafi konum verisi sahte olduğundan harita tercih edilmedi)
-
+<p align="center">
+  <img src="assets/Store.png" alt="Store Dashboard" width="800"/>
+</p>
 
